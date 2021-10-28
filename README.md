@@ -1,4 +1,4 @@
-# Jogo_de_cartas_Ricky_morty
+# Rick and Morty Game
 
 ## 📌 Envolvidos neste projeto:
 👦: **- Ryan Marinho**
